@@ -1,5 +1,5 @@
 {
-  "name": "pug2html",
+  "name": "pug-to-html",
   "version": "1.0.0",
   "description": "",
   "main": "pug2html.js",
@@ -10,11 +10,11 @@
   "author": "Joshua LaFever",
   "license": "ISC",
   "bin": {
-    "pug-to-html": "./pug2html.js"
+    "pug-to-html": "./pug2Html.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshua-lafever/pug2html"
+    "url": "https://github.com/joshua-lafever/pug-to-html"
   },
   "dependencies": {
     "prettier": "^2.7.1",
