@@ -1,5 +1,5 @@
 {
-  "name": "pug-to-html",
+  "name": "pug-to-html-converter",
   "version": "1.0.0",
   "description": "",
   "main": "pug2html.js",
