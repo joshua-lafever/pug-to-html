@@ -1,0 +1,23 @@
+{
+  "name": "pug2html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pug2html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joshua LaFever",
+  "license": "ISC",
+  "bin": {
+    "pug-to-html": "./pug2html.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshua-lafever/pug2html"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "pug": "^3.0.2"
+  }
+}
